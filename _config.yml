@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: PCP documentation test
+description: PCP Documentation Working Group's test repo
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://nypl.github.io/pcpDocumentationTest
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Home: https://nypl.github.io/pcpDocumentationTest
