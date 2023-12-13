@@ -1,6 +1,6 @@
 title: PCP documentation test
 description: PCP Documentation Working Group's test repo
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://nypl.github.io/pcpDocumentationTest
 
