@@ -18,6 +18,8 @@ nav_order: 1
     - Too many changes!!!
     - Additional changes on our third attempt
     - Heat wave
+    - Rehearsal
+    - Things are getting weird
   </summary>
   {: .text-delta }
 1. TOC
