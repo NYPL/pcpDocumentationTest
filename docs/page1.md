@@ -21,6 +21,7 @@ nav_order: 1
     - Rehearsal
     - Things are getting weird
     - Brand new thing
+    - In sync or not in sync
   </summary>
   {: .text-delta }
 1. TOC
