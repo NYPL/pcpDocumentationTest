@@ -16,6 +16,8 @@ nav_order: 1
     - And there are many more changes now.
     - And a bit more... believe it or not.
     - Too many changes!!!
+    - Additional changes on our third attempt
+    - Heat wave
   </summary>
   {: .text-delta }
 1. TOC
