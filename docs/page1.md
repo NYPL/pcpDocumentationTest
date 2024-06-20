@@ -9,6 +9,10 @@ nav_order: 1
 <details closed markdown="block">
   <summary>
     Table of contents
+    - Making a change
+    - Making another change
+    - And making, yet, another change!
+    - So many changes.
   </summary>
   {: .text-delta }
 1. TOC
