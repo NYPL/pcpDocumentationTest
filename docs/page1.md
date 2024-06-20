@@ -20,6 +20,7 @@ nav_order: 1
     - Heat wave
     - Rehearsal
     - Things are getting weird
+    - Brand new thing
   </summary>
   {: .text-delta }
 1. TOC
