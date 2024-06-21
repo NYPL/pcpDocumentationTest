@@ -23,6 +23,7 @@ nav_order: 1
     - Brand new thing
     - In sync or not in sync
     - More testing for Friday! Happy Friday
+    - Conflict averse
   </summary>
   {: .text-delta }
 1. TOC
