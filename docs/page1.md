@@ -22,6 +22,7 @@ nav_order: 1
     - Things are getting weird
     - Brand new thing
     - In sync or not in sync
+    - More testing for Friday! Happy Friday
   </summary>
   {: .text-delta }
 1. TOC
