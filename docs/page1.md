@@ -5,7 +5,6 @@ nav_order: 1
 ---
 
 ## Page 1
-
 <details closed markdown="block">
   <summary>
     Table of contents
