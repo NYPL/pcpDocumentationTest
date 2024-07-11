@@ -9,4 +9,4 @@ another day another test
 here is some more test
 
 20240711: merge conflict demo
-Shirin's test 
+San Dimas High School Football rules!
